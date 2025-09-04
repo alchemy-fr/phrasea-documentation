@@ -1,0 +1,1 @@
+(self.webpackChunkphrasea=self.webpackChunkphrasea||[]).push([[4140],{48701:(s,a,e)=>{"use strict";e.d(a,{A:()=>p});var h=e(36430);e(84946)(h),e(24414)(h),e(42537)(h);const p=h},99056:()=>{}}]);

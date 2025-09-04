@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphrasea=self.webpackChunkphrasea||[]).push([[2800],{95151:s=>{s.exports=JSON.parse('{"tag":{"label":"test","permalink":"/fr/docs/tags/test","allTagsPath":"/fr/docs/tags","count":1,"items":[{"id":"intro","title":"Intro","description":"D\xe9couvrons Phrasea en moins de 5 minutes.","permalink":"/fr/docs/intro"}],"unlisted":false}}')}}]);

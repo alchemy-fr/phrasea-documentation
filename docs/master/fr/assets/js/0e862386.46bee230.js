@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphrasea=self.webpackChunkphrasea||[]).push([[5079],{3624:s=>{s.exports=JSON.parse('{"tags":[{"label":"test","permalink":"/fr/docs/tags/test","count":1}]}')}}]);
